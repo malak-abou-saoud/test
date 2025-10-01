@@ -95,7 +95,7 @@ const Contact = ({ language }: ContactProps) => {
             className="bg-primary text-white hover:bg-primary/90 glass-card hover:glow-effect transition-smooth"
             asChild
           >
-            <a href="https://drive.google.com/file/d/1fjYPsktSpSpOK0Btsvb_JU8sCarT0YIi/view?usp=sharing" target="_blank" rel="https://drive.google.com/file/d/1fjYPsktSpSpOK0Btsvb_JU8sCarT0YIi/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1g9N3LWJ12e0VpsgWBG__YedXV96539f2/view?usp=sharing" target="_blank" rel="https://drive.google.com/file/d/1g9N3LWJ12e0VpsgWBG__YedXV96539f2/view?usp=sharing">
               <FileDown className="w-5 h-5 mr-2" />
               {content[language].cv}
             </a>
