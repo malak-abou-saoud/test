@@ -87,7 +87,7 @@ const Hero = ({ language }: HeroProps) => {
         
         <div className="flex-shrink-0 w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-primary animate-slide-in-right">
           <img
-            src="WhatsApp Image 2025-09-30 at 12.20.08 (1).jpeg"// <-- Replace with your picture path
+            src="profile.jpeg"// <-- Replace with your picture path
             alt="Malak Abou Saoud"
             className="w-full h-full object-cover"
           />
