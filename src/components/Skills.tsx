@@ -21,7 +21,7 @@ const Skills = ({ language }: SkillsProps) => {
         { name: "Power BI", level: 90, logo: "https://img.icons8.com/color/48/power-bi.png" }
       ],
       hardLanguagesList: [
-        { name: "HTML/CSS", level: 85, logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
+        { name: "HTML/CSS/TailwindCSS", level: 85, logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
         { name: "JavaScript", level: 80, logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
         { name: "C/C++", level: 75, logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" },
         { name: "MySQL", level: 65, logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" },
